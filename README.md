@@ -90,6 +90,16 @@ Down-leveling is an offer one level below the level you interviewed for, such as
 
 Yes, at most companies. The coding round is commonly reported to be graded at senior level, so it can fail a candidate but rarely earns the staff level alone. See [coding](rounds/coding.md).
 
+## Free reading on DesignGurus.io
+
+- Free article: [The staff engineer interview](https://www.designgurus.io/blog/staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): what changes from senior, round by round.
+- Free article: [Staff engineer vs senior engineer](https://www.designgurus.io/blog/staff-engineer-vs-senior-engineer?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): scope, expectations, and the interview bar.
+- Free article: [Staff engineer levels at Google, Meta, Amazon, and Apple](https://www.designgurus.io/blog/staff-engineer-levels?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): L6, E6, and ICT5 compared.
+- Free article: [System design interview for L6 engineers](https://www.designgurus.io/blog/system-design-interview-l6-engineers?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): what interviewers expect at staff level.
+- Free article: [The seven questions staff engineers ask](https://www.designgurus.io/blog/seven-questions-staff-engineers-ask?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): what to settle before drawing a single box.
+- Free article: [System design trade-offs](https://www.designgurus.io/blog/complex-system-design-tradeoffs?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): how a senior engineer reasons through them.
+- Free article: [Behavioral interview guide for large tech companies](https://www.designgurus.io/blog/faang-behavioral-interview-guide?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): question types and answer structure.
+
 ## Go deeper
 
 This repository gives the outline. The course teaches each skill in full and ends every lesson with how to use it in an interview.

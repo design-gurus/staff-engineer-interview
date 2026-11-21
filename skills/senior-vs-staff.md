@@ -57,3 +57,5 @@ Three or more specific answers suggest you have staff-level evidence to present.
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-senior-vs-staff) opens with a chapter on what a staff engineer does, including how to choose which problems to work on.
 - [Staff archetypes](staff-archetypes.md) describes the four common forms of the role.
 - [Levels](../cheat-sheets/levels.md) lists the commonly reported titles at large companies.
+- Free article: [Staff engineer vs senior engineer: scope, expectations, and interview bar](https://www.designgurus.io/blog/staff-engineer-vs-senior-engineer?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-senior-vs-staff)
+- Free answer: [Why system design interview rounds matter for senior and staff engineers](https://www.designgurus.io/answers/detail/why-system-design-interview-rounds-matter-for-senior-and-staff-engineers?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-senior-vs-staff)

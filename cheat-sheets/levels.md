@@ -64,3 +64,5 @@ These formats are commonly reported and differ by company and team. See [the int
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-levels) has a lesson on staff levels at large companies and a chapter on leveling and the offer.
 - [Senior vs staff engineer](../skills/senior-vs-staff.md) explains the three differences behind the level codes.
 - [Down-leveling](down-leveling.md) covers what to do when the offer is one level lower.
+- Free article: [Staff engineer levels at Google, Meta, Amazon, and Apple](https://www.designgurus.io/blog/staff-engineer-levels?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-levels), covering L6, E6, and ICT5 in more detail.
+- Free answer: [Google L7: what a senior staff software engineer does](https://www.designgurus.io/answers/detail/what-is-a-level-7-engineer-at-google?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-levels)
