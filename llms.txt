@@ -1,0 +1,64 @@
+# Staff Engineer Interview
+
+> What changes at staff level: the loop, system design at staff scope, the project deep dive, and down-leveling. A free guide from DesignGurus.io, in plain Markdown, with no account required.
+
+Each page is short and ends with links to full course lessons and free articles. Each description below is the opening sentence of that page.
+
+## Cheat sheets
+
+- [Common Mistakes in Staff Engineer Interviews](https://github.com/design-gurus/staff-engineer-interview/blob/main/cheat-sheets/common-mistakes.md): Strong senior engineers fail staff loops for a small number of repeated reasons.
+- [Down-Leveling](https://github.com/design-gurus/staff-engineer-interview/blob/main/cheat-sheets/down-leveling.md): Down-leveling is an offer one level below the level you interviewed for.
+- [Four-Week Staff Engineer Interview Plan](https://github.com/design-gurus/staff-engineer-interview/blob/main/cheat-sheets/four-week-plan.md): This plan assumes 8 to 10 hours per week and an engineer who already works at senior level.
+- [Staff Engineer Levels at Large Companies](https://github.com/design-gurus/staff-engineer-interview/blob/main/cheat-sheets/levels.md): Staff engineer is the first level above senior engineer on the individual contributor track.
+- [Staff Engineer Interview Questions](https://github.com/design-gurus/staff-engineer-interview/blob/main/cheat-sheets/question-bank.md): This page lists 50 questions that staff engineer candidates commonly report, in seven groups.
+
+## Rounds
+
+- [The Staff Engineer Behavioral Interview](https://github.com/design-gurus/staff-engineer-interview/blob/main/rounds/behavioral.md): A staff behavioral round asks the same kinds of questions as a senior one, about conflict, failure, and ambiguity.
+- [The Staff Engineer Coding Interview](https://github.com/design-gurus/staff-engineer-interview/blob/main/rounds/coding.md): Most staff loops still include one coding round, and some include two.
+- [The Staff Engineer Interview Loop](https://github.com/design-gurus/staff-engineer-interview/blob/main/rounds/interview-loop.md): A staff engineer loop usually has three stages: a recruiter call, one or two screens, and an onsite of four or five rounds.
+- [The Project Deep Dive Interview](https://github.com/design-gurus/staff-engineer-interview/blob/main/rounds/project-deep-dive.md): The project deep dive is a 45 to 60 minute round about one project from your own history.
+- [The Staff Engineer System Design Interview](https://github.com/design-gurus/staff-engineer-interview/blob/main/rounds/system-design.md): A senior design round asks for a system that works at the stated scale.
+
+## Skills
+
+- [Influence Without Authority](https://github.com/design-gurus/staff-engineer-interview/blob/main/skills/influence-without-authority.md): A staff engineer usually has no direct reports and cannot instruct another team to do anything.
+- [Senior vs Staff Engineer](https://github.com/design-gurus/staff-engineer-interview/blob/main/skills/senior-vs-staff.md): A staff engineer is not a faster senior engineer.
+- [Staff Engineer Archetypes](https://github.com/design-gurus/staff-engineer-interview/blob/main/skills/staff-archetypes.md): Staff engineer is one title that covers several different jobs.
+- [Technical Judgment Under Uncertainty](https://github.com/design-gurus/staff-engineer-interview/blob/main/skills/technical-judgment.md): Technical judgment is the ability to make a sound decision before all the information is available.
+- [Technical Strategy and Design Docs](https://github.com/design-gurus/staff-engineer-interview/blob/main/skills/technical-strategy-and-design-docs.md): Most of a staff engineer's influence travels through writing.
+
+## Related free guides
+
+- [Grokking System Design](https://github.com/design-gurus/grokking-system-design): 30 patterns, 59 question walkthroughs, 35 cheat sheets, and guides for 122 companies.
+- [Grokking Coding Interview](https://github.com/design-gurus/grokking-coding-interview): The 41 coding patterns and how to recognize each one in a new problem.
+- [Grokking AI System Design](https://github.com/design-gurus/grokking-ai-system-design): Building blocks and design questions for machine learning, LLM, and agent design rounds.
+- [Design Patterns](https://github.com/design-gurus/design-patterns): The 22 Gang of Four patterns and more than 60 system design patterns.
+- [Best System Design Resources](https://github.com/design-gurus/best-system-design-resources): Courses, books, papers, and videos, sorted by level.
+- [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses): System design courses compared by format, depth, and level.
+- [System Design Numbers](https://github.com/design-gurus/system-design-numbers): Latency numbers, availability tables, traffic formulas, and ten worked capacity estimations.
+- [API Design Interview](https://github.com/design-gurus/api-design-interview): A six-step method for the API design round, the core concepts, and eight question walkthroughs.
+- [Frontend System Design Interview](https://github.com/design-gurus/frontend-system-design-interview): The client side of system design: rendering, state, caching, performance, and eight question walkthroughs.
+- [Mobile System Design Interview](https://github.com/design-gurus/mobile-system-design-interview): System design for iOS and Android engineers: offline sync, caching, push, performance, and eight question walkthroughs.
+- [Microservices Interview Questions](https://github.com/design-gurus/microservices-interview-questions): About 100 questions with short model answers, from service boundaries to sagas and migration.
+- [Concurrency Interview](https://github.com/design-gurus/concurrency-interview): Core concepts and nine classic problems solved in Java, Python, and Go.
+- [DevOps and SRE Interview](https://github.com/design-gurus/devops-sre-interview): The loop round by round: troubleshooting, Linux and networking, SRE system design, and incident response.
+- [Data Engineering Interview](https://github.com/design-gurus/data-engineering-interview): SQL, data modeling, and pipeline design rounds, with six pipeline design walkthroughs.
+- [Forward Deployed Engineer Interview](https://github.com/design-gurus/forward-deployed-engineer-interview): The forward deployed engineer loop, the decomposition round, and the loops at five companies.
+- [Solutions Architect Interview](https://github.com/design-gurus/solutions-architect-interview): Architecture design, customer discovery, and presentation rounds, with loops at five cloud and data companies.
+- [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview): The manager loop round by round: people management, project retrospective, behavioral, and system design for managers.
+- [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles): All 16 principles with interview questions, sample answers, and how the Amazon loop works.
+- [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels): Engineering ladders at 17 companies, how levels map across them, and what interviews expect at each level.
+- [Google Interview Guide](https://github.com/design-gurus/google-interview-guide): The whole Google loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Meta Interview Guide](https://github.com/design-gurus/meta-interview-guide): The whole Meta loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Amazon Interview Guide](https://github.com/design-gurus/amazon-interview-guide): The whole Amazon loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Microsoft Interview Guide](https://github.com/design-gurus/microsoft-interview-guide): The whole Microsoft loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Apple Interview Guide](https://github.com/design-gurus/apple-interview-guide): The whole Apple loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Netflix Interview Guide](https://github.com/design-gurus/netflix-interview-guide): The whole Netflix loop: process, coding, system design, behavioral, levels, and a question bank.
+- [OpenAI Interview Guide](https://github.com/design-gurus/openai-interview-guide): The whole OpenAI loop: process, coding, system design, behavioral, levels, and a question bank.
+
+## Optional
+
+The paid course this guide accompanies, for full lessons and worked solutions.
+
+- [Course on DesignGurus.io](https://www.designgurus.io/course/grokking-staff-engineer-interview): The course linked throughout this guide.
