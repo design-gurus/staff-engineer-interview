@@ -64,6 +64,9 @@ A strong answer names the tool, shows the numbers, and states what would have ch
 ## Go deeper
 
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-judgment) has a chapter on technical judgment, including estimating risk and the effect of AI coding tools on engineering quality.
+- Lesson: [Reversible and Irreversible Decisions](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/reversible-and-irreversible-decisions?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-judgment), in Grokking Staff Engineer Interview
+- Lesson: [The Premortem](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/the-premortem?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-judgment), in Grokking Staff Engineer Interview
+- Lesson: [Build, Buy, or Adopt](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/build-buy-or-adopt?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-judgment), in Grokking Staff Engineer Interview
 - [Advanced System Design Fundamentals](https://www.designgurus.io/course/advanced-system-design-fundamentals?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-judgment) works through build versus buy and cost estimation with full arithmetic.
 - [System design](../rounds/system-design.md) shows where the pre-mortem fits in a design round.
 - Free article: [System design trade-offs: how to handle them as a senior engineer](https://www.designgurus.io/blog/complex-system-design-tradeoffs?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-judgment)

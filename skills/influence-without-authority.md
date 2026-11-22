@@ -63,5 +63,8 @@ In each answer, state who had to agree, what each party objected to, and what yo
 ## Go deeper
 
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-influence-without-authority) has five lessons on influence, from building agreement across teams to driving a decision you do not own.
+- Lesson: [Building Agreement Across Teams](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/building-agreement-across-teams?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-influence-without-authority), in Grokking Staff Engineer Interview
+- Lesson: [Disagreeing With Senior Engineers](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/disagreeing-with-senior-engineers?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-influence-without-authority), in Grokking Staff Engineer Interview
+- Lesson: [Saying No to a Manager or Product Lead](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/saying-no-to-a-manager-or-product-lead?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-influence-without-authority), in Grokking Staff Engineer Interview
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-influence-without-authority) covers conflict questions and answer structure.
 - [Behavioral](../rounds/behavioral.md) shows how these stories are graded.

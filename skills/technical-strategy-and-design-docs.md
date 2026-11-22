@@ -62,5 +62,8 @@ As the author, state which comments you need: blocking concerns first. As a revi
 ## Go deeper
 
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-strategy-and-design-docs) has a chapter on design writing, including a complete written strategy built step by step.
+- Lesson: [The Design Document](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/the-design-document?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-strategy-and-design-docs), in Grokking Staff Engineer Interview
+- Lesson: [Architecture Decision Records](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/architecture-decision-records?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-strategy-and-design-docs), in Grokking Staff Engineer Interview
+- Lesson: [Writing a Technical Strategy](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/writing-a-technical-strategy?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-strategy-and-design-docs), in Grokking Staff Engineer Interview
 - [Advanced System Design Fundamentals](https://www.designgurus.io/course/advanced-system-design-fundamentals?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-technical-strategy-and-design-docs) covers the cost and migration sections in depth.
 - [System design](../rounds/system-design.md) shows the same structure used live in a 45-minute round.

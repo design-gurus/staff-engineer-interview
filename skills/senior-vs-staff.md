@@ -55,6 +55,8 @@ Three or more specific answers suggest you have staff-level evidence to present.
 ## Go deeper
 
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-senior-vs-staff) opens with a chapter on what a staff engineer does, including how to choose which problems to work on.
+- Lesson: [Senior and Staff Engineers](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/senior-and-staff-engineers?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-senior-vs-staff), in Grokking Staff Engineer Interview
+- Lesson: [Choosing Which Problems to Work On](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/choosing-which-problems-to-work-on?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-senior-vs-staff), in Grokking Staff Engineer Interview
 - [Staff archetypes](staff-archetypes.md) describes the four common forms of the role.
 - [Levels](../cheat-sheets/levels.md) lists the commonly reported titles at large companies.
 - Free article: [Staff engineer vs senior engineer: scope, expectations, and interview bar](https://www.designgurus.io/blog/staff-engineer-vs-senior-engineer?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-senior-vs-staff)

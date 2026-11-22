@@ -54,6 +54,9 @@ Any "no" identifies the next hour of preparation.
 ## Go deeper
 
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-common-mistakes) shows weak, strong, and staff-level answers side by side, so each of these mistakes is visible in a real answer.
+- Lesson: [From a Vague Ask to a Problem Statement](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/from-a-vague-ask-to-a-problem-statement?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-common-mistakes), in Grokking Staff Engineer Interview
+- Lesson: [Choosing What to Leave Out](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/choosing-what-to-leave-out?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-common-mistakes), in Grokking Staff Engineer Interview
+- Lesson: [Failure Questions](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/failure-questions?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-common-mistakes), in Grokking Staff Engineer Interview
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-common-mistakes) covers answer structure for failure and conflict questions.
 - Next: the [four-week plan](four-week-plan.md) and [down-leveling](down-leveling.md).
 - Free article: [Ten system design interview mistakes that cost candidates the offer](https://www.designgurus.io/blog/system-design-interview-mistakes?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-common-mistakes), with a fix for each one.

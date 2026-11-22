@@ -90,6 +90,19 @@ Down-leveling is an offer one level below the level you interviewed for, such as
 
 Yes, at most companies. The coding round is commonly reported to be graded at senior level, so it can fail a candidate but rarely earns the staff level alone. See [coding](rounds/coding.md).
 
+## Course lessons to start with
+
+- [Senior and Staff Engineers](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/senior-and-staff-engineers?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): how the two levels differ in scope and judgment, in Grokking Staff Engineer Interview
+- [The Four Staff Archetypes](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/the-four-staff-archetypes?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): the four common forms of the staff role, in Grokking Staff Engineer Interview
+- [From a Vague Ask to a Problem Statement](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/from-a-vague-ask-to-a-problem-statement?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): how to open a staff system design round, in Grokking Staff Engineer Interview
+- [Worked Design: Consolidating Three Job Schedulers](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/worked-design-consolidating-three-job-schedulers?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): one complete staff-level design, in Grokking Staff Engineer Interview
+- [Context, Constraints, Choices, Results](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/context-constraints-choices-results?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): the order for presenting a project in the deep dive, in Grokking Staff Engineer Interview
+- [Writing a Technical Strategy](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/writing-a-technical-strategy?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): the parts of a written strategy, in Grokking Staff Engineer Interview
+- [Building Agreement Across Teams](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/building-agreement-across-teams?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): how to move a decision across teams without authority, in Grokking Staff Engineer Interview
+- [What a Staff Answer Adds](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/what-a-staff-answer-adds?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): what separates a staff behavioral answer from a senior one, in Grokking Staff Engineer Interview
+- [Down Leveling: Causes and Responses](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/down-leveling-causes-and-responses?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): why a lower offer happens and how to respond, in Grokking Staff Engineer Interview
+- [Running the 45 Minutes](https://www.designgurus.io/course-play/advanced-system-design-fundamentals/doc/running-the-45-minutes?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): how to divide the time in a design round, in Advanced System Design Fundamentals
+
 ## Free reading on DesignGurus.io
 
 - Free article: [The staff engineer interview](https://www.designgurus.io/blog/staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=readme): what changes from senior, round by round.

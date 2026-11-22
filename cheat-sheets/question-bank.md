@@ -96,5 +96,8 @@ This page lists 50 questions that staff engineer candidates commonly report, in 
 ## Go deeper
 
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-question-bank) gives weak and strong answers side by side for each behavioral group, plus full mock loops.
+- Lesson: [Scope Questions](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/scope-questions?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-question-bank), in Grokking Staff Engineer Interview
+- Lesson: [Ambiguity Questions](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/ambiguity-questions?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-question-bank), in Grokking Staff Engineer Interview
+- Lesson: [Conflict Questions](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/conflict-questions?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-question-bank), in Grokking Staff Engineer Interview
 - [Advanced System Design Interview, Volume II](https://www.designgurus.io/course/grokking-system-design-interview-ii?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=cheat-sheets-question-bank) has advanced design case studies for more practice.
 - Round guides: [behavioral](../rounds/behavioral.md), [system design](../rounds/system-design.md), and [project deep dive](../rounds/project-deep-dive.md).

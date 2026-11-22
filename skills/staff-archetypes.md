@@ -56,5 +56,6 @@ Avoid claiming all four. A candidate who says "I do everything" gives the interv
 ## Go deeper
 
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-staff-archetypes) has a lesson on the four archetypes, with what each one owns and how a person moves between them.
+- Lesson: [The Four Staff Archetypes](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/the-four-staff-archetypes?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=skills-staff-archetypes), in Grokking Staff Engineer Interview
 - [Senior vs staff engineer](senior-vs-staff.md) explains the three differences that all four archetypes share.
 - [Behavioral](../rounds/behavioral.md) shows how to add staff scope to your stories.

@@ -61,5 +61,7 @@ See the [four-week plan](../cheat-sheets/four-week-plan.md) for a schedule built
 ## Go deeper
 
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=rounds-interview-loop) has a chapter on how hiring committees decide between senior and staff, and a chapter of full mock loops.
+- Lesson: [The Staff Interview Loop](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/the-staff-interview-loop?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=rounds-interview-loop), in Grokking Staff Engineer Interview
+- Lesson: [How Hiring Committees Decide Between Senior and Staff](https://www.designgurus.io/course-play/grokking-staff-engineer-interview/doc/how-hiring-committees-decide-between-senior-and-staff?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=rounds-interview-loop), in Grokking Staff Engineer Interview
 - [Levels](../cheat-sheets/levels.md) lists the commonly reported staff titles at three large companies.
 - Free article: [The staff engineer interview: what changes from senior, round by round](https://www.designgurus.io/blog/staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=staff-engineer-interview&utm_content=rounds-interview-loop)
