@@ -124,6 +124,8 @@ This repository gives the outline. The course teaches each skill in full and end
 
 Related free guides: [Grokking System Design](https://github.com/design-gurus/grokking-system-design), [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview), and [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections, new questions, and reports of how a staff loop was run are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
